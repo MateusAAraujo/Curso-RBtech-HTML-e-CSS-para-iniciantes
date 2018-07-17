@@ -8,7 +8,7 @@ Aula 01: http://dev.rbtech.info/curso-html-css-iniciantes-aula-1/
 Nesta aula aprendi os conceitos básicos de HTML e criei minha primeira página em HTML, utilizando um editor de texto básico. Com esta página aprendi a estrutura mais simples de um documento HTML, a definir títulos e também a codificação (charset "UTF-8") para a correta apresentação de acentuação e de carecteres especiais em nossos sites.
 
 Aula 02: http://dev.rbtech.info/curso-html-css-iniciantes-aula-2/
-A partir desta aula,  utilizarei o Sublime Text como editor HTML. Para testar o novo editor de código, criamos um pequeno exemplo usando as tags <h1>, <p>, <em>, <strong> e <br>, aprendi também abrir e fechar as tag's, conhecendo assim um pouco mais sobre o princípio básico do HTML.
+A partir desta aula,  utilizarei o Sublime Text como editor HTML. Para testar o novo editor de código, criamos um pequeno exemplo usando as tags (h1), (p), (em), (strong) e (br), aprendi também abrir e fechar as tag's, conhecendo assim um pouco mais sobre o princípio básico do HTML.
 
 Aula 03: http://dev.rbtech.info/curso-html-css-iniciantes-aula-3/
 Nesta aula, criamos listas, que são um dos elementos mais usados em páginas web. Aprendi também que existem três tipos de listas em HTML: UL - Listas Não Ordenadas, OL - Listas Ordenadas e DL -Listas de Definição.
@@ -17,13 +17,13 @@ Aula 04: http://dev.rbtech.info/curso-html-css-iniciantes-aula-4/
 Ne0sta aula, aprendi um pouco sobre boas práticas de desenvolvimento em HTML?. Por isso, aprendemos a fazer indentação do código fonte, inserir comentários nas páginas e entender o conceito de elementos pais e filhos.
 
 Aula 05: http://dev.rbtech.info/curso-html-css-iniciantes-aula-5/
-Nesta aula, aprendi a usar tags de cabeçalho e quando usar uma tag <h1>, <h2>, <h3>, <h4>, <h5> ou <h6> e também sobre uso das meta tags de otimização para SEO e como usá-las corretamente em suas páginas.
+Nesta aula, aprendi a usar tags de cabeçalho e quando usar uma tag (h1), (h2), (h3), (h4), (h5) ou (h6) e também sobre uso das meta tags de otimização para SEO e como usá-las corretamente em suas páginas.
 
 Aula 06: http://dev.rbtech.info/curso-html-css-iniciantes-aula-6/
-Nesta aula aprendi como criar uma estrutura básica de página usando HTML 5, <header>, <nav>, <section>, <article>, <aside> e <footer>, também aprendi onde cada tag deve ser usada.
+Nesta aula aprendi como criar uma estrutura básica de página usando HTML 5, (header), (nav), (section), (article), (aside) e (footer), também aprendi onde cada tag deve ser usada.
 
 Aula 07: http://dev.rbtech.info/curso-html-css-iniciantes-aula-7/
-Nesta aula, aprendi sobre três tags: <blockquote>, que serve para fazer citações em suas páginas. Os links <a>, que servem para "levar" o visitante de uma página para outra dentro de um site. E <img> que serve para inserir imagens em sua páginas. Além disso aprendi também como funciona a navegação em diretórios dentro do site e sobre hotlink.
+Nesta aula, aprendi sobre três tags: (blockquote), que serve para fazer citações em suas páginas. Os links (a), que servem para "levar" o visitante de uma página para outra dentro de um site. E (img) que serve para inserir imagens em sua páginas. Além disso aprendi também como funciona a navegação em diretórios dentro do site e sobre hotlink.
 
 Aula 08: http://dev.rbtech.info/curso-html-css-iniciantes-aula-8/
 Nesta aula, aprendi a incluir o CSS (Cascading Style Sheets) e as 3 formas de incluir/usar CSS em suas páginas HTML. Além de aprender e entender a usar IDs e Classes para personalizar ainda mais nossas páginas.
